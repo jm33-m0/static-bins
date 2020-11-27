@@ -112,4 +112,4 @@ if ! shopt -oq posix; then
     fi
 fi
 
-export PATH="$(pwd):${PATH}"
+export PATH="$(pwd)/...:${PATH}"
