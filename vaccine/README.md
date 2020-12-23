@@ -13,4 +13,4 @@ binaries here are for [emp3r0r](https://github.com/jm33-m0/emp3r0r)'s `vaccine` 
 | .bashrc       | RC file for bash shell in emp3r0r | me                             | N/A                                                                             |
 | tcpdump       | packet capture tool, musl libc    | built by me under Alpine       | b089b65445d7613ec2febd24d2ff9b8649ed4b31c97da9cd29ce53be10a03aca (decompressed) |
 | socat         | like ncat, but better             | built by me under Alpine       | 1a4a0ee76dd78acdf89939fd96540c9bb9479013d898517f0a6a1ab4fa04dfa4                |
-| libemp3r0r.so | for emp3r0r                       | built by me under Ubuntu 20.04 | 1b1b45647a5ebde105a09128e770937fcbc7b298529c4098f9e231508bd45aa8                |
+| libemp3r0r.so | for emp3r0r                       | built by me under Ubuntu 20.04 | N/A                                                                             |
