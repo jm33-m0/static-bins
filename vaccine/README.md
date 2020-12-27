@@ -3,6 +3,7 @@
 binaries here are for [emp3r0r](https://github.com/jm33-m0/emp3r0r)'s `vaccine` module
 
 | filename      | description                       | from                              | sha256sum                                                                       |
+|---------------|-----------------------------------|-----------------------------------|---------------------------------------------------------------------------------|
 | gdb           | GNU debugger                      | github.com/hugsy/gdb-static       | 82123205a0aa5cecf5c32b194bb9c3c09e12ecd02cf5880b3609ca29b06902c8 (decompressed) |
 | nmap          | port scanner                      | github.com/hugsy/gdb-static       | 353fd20c9efcd0328cea494f32d3650b9346fcdb45bfe20d8dbee2dd7b62ca62 (decompressed) |
 | nano          | text editor                       | github.com/hugsy/gdb-static       | c8fdce48e93050468d2873d43c4e8c0d53d68a48274e49c75eb54738af26c97d (decompressed) |
