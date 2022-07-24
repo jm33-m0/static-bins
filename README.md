@@ -1,5 +1,5 @@
 # static-bins
-A statically linked post-exploitation tools for linux
+A statically linked post-exploitation tools for Linux
 
 ## Notice
 Mostly referenced [andrew-d](https://github.com/andrew-d/static-binaries)'s linux binaries and those compiled by myself including Debian/CentOS official repositories.
